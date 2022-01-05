@@ -1,13 +1,15 @@
-### database-resources
+<h1 align="center">DB Resources</h1>
+<p align="center">A small database that covers great resources for a wide variety of topics.</p>
+
 | Name                                                 | URL                                  | Discription                                                                              |
 | ---------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------- |
-| books| | 
+| <h2 align="center">books</h2>                        |                                      |                                                                                          |
 | Z library                                            | https://z-lib.org/                   | online library for books and articles                                                    |
 | PDFDrive                                             | https://www.pdfdrive.com/            | install pdf's on the fly                                                                 |
-| ebookee                                              | https://ebookee.unblockit.tv/        | online library for ebooks                                                                |
-| manybooks                                            | https://manybooks.net/               | online library for ebooks                                                                |
+| Ebookee                                             | https://ebookee.unblockit.tv/        | online library for ebooks                                                                |
+| Manybooks                                           | https://manybooks.net/               | online library for ebooks                                                                |
 |                                                      |                                      |                                                                                          |
-| science                                              |                                      |                                                                                          |
+| <h2 align="center">science</h2>                      |                                      |                                                                                          |
 | National library of medicine                         | https://pubmed.ncbi.nlm.nih.gov/     | website for research papers medicine related                                             |
 | National center for advancing translational sciences | https://ncats.nih.gov/               | website for research papers regarding sciences                                           |
 | Harvard med school                                   | https://hms.harvard.edu/             | website for research papers medicine related                                             |
@@ -19,16 +21,16 @@
 | MedlinePlus                                          | https://medlineplus.gov/             | Trusted Health Information for You                                                       |
 | American Psychological Association                   | https://www.apa.org/                 | Latest Psychology news and papers                                                        |
 |                                                      |                                      |                                                                                          |
-| torrent                                              |                                      |                                                                                          |
-| zoogle                                               | https://zooqle.com/                  | films and series to torrent                                                              |
-| rarbg                                                | https://proxyrarbg.org/torrents.php/ | films                                                                                    |
-| the pirate bay                                       | https://thepiratebay.cx/en3/         | everything to torrent                                                                    |
+| <h2 align="center">torrent</h2>                     |                                      |                                                                                          |
+| Zoogle                                              | https://zooqle.com/                  | films and series to torrent                                                              |
+| Rarbg                                               | https://proxyrarbg.org/torrents.php/ | films                                                                                    |
+| The Pirate Bay                                    | https://thepiratebay.cx/en3/         | everything to torrent                                                                    |
 | 1337x                                                | https://www.1377x.to                 | films                                                                                    |
-| kickass                                              | https://kickasstorrent.cr/           | alternative to the pirate bay                                                            |
-| nyaa                                                 | https://nyaa.si/                     | service for all sorts of Japanese media such as anime, manga, niche software, films etc. |
+| Kickass                                             | https://kickasstorrent.cr/           | alternative to the pirate bay                                                            |
+| Nyaa                                                | https://nyaa.si/                     | service for all sorts of Japanese media such as anime, manga, niche software, films etc. |
 |                                                      |                                      |                                                                                          |
-| games                                                |                                      |                                                                                          |
-| igg-games                                            | https://igg-games.com/               | steam games for free                                                                     |
-| gog-games                                            | https://gog-games.com/               | gog games that are drm-free                                                              |
-| crotorrents                                          | https://crotorrents.com/             |                                                                                          |
-| crohasit                                             | https://crohasit.net/                |                                                                                          |
+| <h2 align="center">games</h2>                        |                                      |                                                                                          |
+| IGG-Games                                      | https://igg-games.com/               | steam games for free                                                                     |
+| GOG-Games                                        | https://gog-games.com/               | gog games that are drm-free                                                              |
+| CroTorrents                                        | https://crotorrents.com/             |                                                                                          |
+| CroHasit                                           | https://crohasit.net/                |                                                                                          |
