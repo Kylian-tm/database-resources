@@ -1,8 +1,7 @@
 ### database-resources
 | Name                                                 | URL                                  | Discription                                                                              |
 | ---------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------- |
-                                                                                      |
-#books
+| books| | 
 | Z library                                            | https://z-lib.org/                   | online library for books and articles                                                    |
 | PDFDrive                                             | https://www.pdfdrive.com/            | install pdf's on the fly                                                                 |
 | ebookee                                              | https://ebookee.unblockit.tv/        | online library for ebooks                                                                |
